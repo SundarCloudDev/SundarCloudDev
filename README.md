@@ -3,7 +3,7 @@
 👋 Hi, I’m Sundar K
 
 💼 About Me  
-I am a passionate software developer with over 3 years of experience specializing in the MEAN stack and React for web development. I thrive on building innovative solutions and enjoy tackling complex challenges in both microservices and monolithic architectures.
+I am a passionate software developer with over 3 years of experience specializing in the MEAN / MERNm Stack for web development. I thrive on building innovative solutions and enjoy tackling complex challenges in both microservices and monolithic architectures.
 
 👀 Skills
 - **Frontend**: Angular, React  
