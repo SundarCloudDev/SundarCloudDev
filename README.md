@@ -8,7 +8,7 @@ I am a passionate software developer with over 3 years of experience specializin
 👀 Skills
 - **Frontend**: Angular, React  
 - **Backend**: Node.js, Express  
-- **Database**: MongoDB, MySQL  
+- **Database**: MongoDB, Python  
 - **Testing**: JMeter, Jest  
 - **Architectures**: Microservices, Monolithic  
 
